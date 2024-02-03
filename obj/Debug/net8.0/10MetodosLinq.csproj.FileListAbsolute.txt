@@ -1,0 +1,11 @@
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/bin/Debug/net8.0/10MetodosLinq
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/bin/Debug/net8.0/10MetodosLinq.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/bin/Debug/net8.0/10MetodosLinq.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.sourcelink.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/refint/10MetodosLinq.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.pdb
