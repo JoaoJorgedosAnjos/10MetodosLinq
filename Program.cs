@@ -30,9 +30,9 @@ Console.WriteLine(fruits.All(x => x == "🍌"));
 
 //Exemplo real
 var students = new List<Student>();
-students.Add(new Student() { Name = "A", Age = 18 });
-students.Add(new Student() { Name = "B", Age = 18 });
-students.Add(new Student() { Name = "C", Age = 30 });
+students.Add(new Student() { Name = "Joao", Age = 18 });
+students.Add(new Student() { Name = "Maria", Age = 18 });
+students.Add(new Student() { Name = "Daniela", Age = 30 });
 
 Console.WriteLine(students.All(x => x.Age >= 18));
 
