@@ -1,4 +1,4 @@
-# métodos do LINQ que todo programador .NET precisa saber!
+# Métodos do LINQ que todo programador .NET precisa saber!
 
 Lista com vários métodos do LINQ. Repositório inspirado no video do Balta, link fixado a baixo, e serão adicionados novos métodos sempre que forem descobertos e estudados
 
