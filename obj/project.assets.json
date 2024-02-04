@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/10MetodosLinq.csproj",
+      "projectUniqueName": "/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/10MetodosLinq.csproj",
       "projectName": "10MetodosLinq",
-      "projectPath": "/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/10MetodosLinq.csproj",
+      "projectPath": "/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/10MetodosLinq.csproj",
       "packagesPath": "/Users/joaojorge/.nuget/packages/",
-      "outputPath": "/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/",
+      "outputPath": "/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joaojorge/.nuget/NuGet/NuGet.Config"

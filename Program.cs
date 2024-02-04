@@ -58,7 +58,7 @@ foreach (var fruit in fruits.Where(fruit => fruit == "🍒" || fruit == "🍌"))
 
 // 8 - Single
 Console.WriteLine(fruits.First());
-Console.WriteLine(fruits.SingleOrDefault(fruit => fruit == "🍒"));
+///Console.WriteLine(fruits.SingleOrDefault(fruit => fruit == "🍒"));
 
 // 9 - Last
 Console.WriteLine(fruits.Last());
@@ -69,3 +69,14 @@ foreach (var fruit in fruits.Skip(2))
 {
     Console.WriteLine(fruit);
 }
+
+// 11 - MaxBy
+var oldestStudent = students.MaxBy(student => student.Age);
+Console.WriteLine(oldestStudent.Name);
+//better than
+var oldestStudent2 = students.OrderByDescending(student => student.Age).FirstOrDefault();
+Console.WriteLine(oldestStudent.Name);
+
+// 12 - MinBy
+var youngestStudent = students.MinBy(student => student.Age);
+Console.WriteLine(youngestStudent.Name);

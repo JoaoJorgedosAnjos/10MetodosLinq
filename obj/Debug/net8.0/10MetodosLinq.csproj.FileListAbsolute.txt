@@ -9,3 +9,7 @@
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.dll
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/refint/10MetodosLinq.dll
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/bin/Debug/net8.0/10MetodosLinq.deps.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/bin/Debug/net8.0/10MetodosLinq.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/10MetodosLinq.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/10MetodosLinq/obj/Debug/net8.0/ref/10MetodosLinq.dll
